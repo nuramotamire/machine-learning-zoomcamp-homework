@@ -1,3 +1,8 @@
 # machine-learning-zoomcamp-homework
 
-test git 
+
+ step1
+pip install jupyter numpy pandas scikit-learn seaborn
+
+step2
+jupyter notebook
